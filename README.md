@@ -1,7 +1,7 @@
 # EXNO2DS
 
-## NAME:VARNIKA.P
-## REG.NO: 212223240170
+## NAME: MOHAMED FAIZAL M
+## REG.NO: 24000006
 
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
